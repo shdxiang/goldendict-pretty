@@ -2,6 +2,8 @@
 
 Make pretty format for goldendict scan popup.
 
+## Example
+
 Original:
 
 ![./doc/original.png](./doc/original.png)
@@ -10,14 +12,14 @@ Pretty:
 
 ![./doc/pretty.png](./doc/pretty.png)
 
-# Install
+## Install
 
 ```bash
 git clone https://github.com/shdxiang/goldendict-pretty.git
 sudo pip install lxml
 ```
 
-# Setting
+## Setting
 
 From main menu, go to _Edit->Dictionaries->Sources->Programs_, and add a program dictionary.
 
