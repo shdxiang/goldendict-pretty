@@ -3,9 +3,11 @@
 Make pretty format for goldendict scan popup.
 
 Original:
+
 ![./doc/original.png](./doc/original.png)
 
 Pretty:
+
 ![./doc/pretty.png](./doc/pretty.png)
 
 # Install
